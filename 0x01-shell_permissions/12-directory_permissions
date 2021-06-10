@@ -1,3 +1,2 @@
 $!/bin/bash
-mkdir dir holberton
-chown 751 holberton
+mkdir dir holberton chmod 751 holberton
