@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -mtime 10 | ls -a1 -lt
+ls -a1 -lt | head
